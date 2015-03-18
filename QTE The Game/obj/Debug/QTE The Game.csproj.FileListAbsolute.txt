@@ -1,0 +1,11 @@
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\bin\Debug\Block Runner Rampage.exe
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\bin\Debug\Block Runner Rampage.pdb
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\bin\Debug\Interop.WMPLib.dll
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\obj\Debug\Interop.WMPLib.dll
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\obj\Debug\QTE The Game.csproj.ResolveComReference.cache
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\obj\Debug\QTE_The_Game.InsaneBlockRunner.resources
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\obj\Debug\QTE_The_Game.Properties.Resources.resources
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\obj\Debug\QTE The Game.csproj.GenerateResource.Cache
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\obj\Debug\Block Runner Rampage.exe
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\obj\Debug\Block Runner Rampage.pdb
+D:\Adrian Bece Designs\Programming\QTE The Game\QTE The Game\obj\Debug\QTE The Game.csprojResolveAssemblyReference.cache
